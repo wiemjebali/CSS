@@ -1,0 +1,236 @@
+html {
+    font-family: sans-serif;
+    margin-left: 209px;
+    margin-right: 171px;  }
+  header img {
+    width: 268px;
+    height: 33px;
+  }
+  header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 2rem 0;
+    position: fi xed;
+    margin-left: -231px;
+    top: 0;
+    background-color: white;
+    z-index: 1000;
+  }
+  .navtools {
+    display: flex;
+    gap: 1.5rem;
+  }
+  #About,
+  #Career:hover,
+  #Departments:hover {
+    color: #00b39b;
+    text-decoration: none;
+  }
+  #Career,
+  #Departments {
+    color: #ababab;
+  }
+  .navtools {
+    font-size: 16px;
+    font-weight: 400;
+  }  
+  #headerlogo {
+    width: 40px;
+    height: 40px;
+  }
+  .leadsection {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 8rem;
+  }
+  #headerp {
+    color: #00b39b;
+    font-size: 32px;
+    font-family: Work Sans, Arial, sans-serif;
+    font-weight: 250px;
+    letter-spacing: -0.3px;
+    padding-top: 20px;
+  }
+  .twoparagraphs {
+    color: #747474;
+    font-size: 16px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 30px;
+    padding-right: 280px;
+    width: 100%;
+  }
+  .p 
+ {
+
+  padding-left: 12px;
+  }
+  .for1 {
+    background-color: #12e4c8;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    padding: 2em 2em 0;
+    justify-content: space-between;
+    height: 345px;
+  }
+  .for2 {
+    background-color: #072e60;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    padding: 2em 2em 0;
+    justify-content: space-between;
+    height: 345px;
+  }
+  .for3 {
+    background-color: #042547;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    padding: 2em 2em 0;
+    justify-content: space-between;
+    height: 345px;
+  }
+  .forsection {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    gap: 2.5rem;
+    padding: 1.375em 1.25em 0;
+    font-size: 1.5em;
+    font-weight: 300;
+    line-height: 1.2;
+    margin: 3.75rem auto 2.5rem;
+    color: #fff;
+    font-family: Work Sans, Arial, sans-serif;
+    max-width: 1015px;
+    padding: 0 20px;
+    position: relative;
+  }
+.ADEM{
+text-align: center;
+}
+.Adem1{
+text-align: center;
+}
+.Aslema2{
+    font-size: 2.1428571429em;
+    color: #00b39b;
+    font-family: Work Sans, Arial, sans-serif;
+    font-weight: 300;
+    letter-spacing: -0.5px;
+    text-align: center;
+}
+.Aslema3{
+    margin: 1.6em 0;
+    line-height: 1.7142857143;
+    text-align: center;
+    font-weight: 400;
+    font-family: Roboto, Arial, sans-serif;
+    color: #747474;
+}
+.section6{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5cm;
+    justify-content: center;
+}
+.country{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+.section6 div{
+    border-radius: 3%;
+    margin: 0.44%;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+}
+div .buttons{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.section6 button {
+    margin-top: 0.5cm;
+    display: flex;
+    gap: 2cm;
+    justify-content: center;
+    background: #3d83df;
+    line-height: 1em;
+    color: #fff;
+    font-weight: 800;
+    letter-spacing: 0.04em;
+    text-align: center;
+    outline: 0;
+    border: 0;
+    border-radius: 4px;
+    font-size: 1rem;
+    align-items: center;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.section6 div{
+    border-radius: 3%;
+    margin: 0.44%;
+}
+
+
+.section7{
+text-align: center;
+
+}
+
+
+.section7 p{
+  font-size: 2.1428571429em;
+    color: #333;
+    margin-bottom: 0.75em;
+    font-family: Work Sans, Arial, sans-serif;
+    font-weight: 300;
+    letter-spacing: -0.3px;
+    text-align: center;
+
+}
+.section7 button{
+  margin-left: 120px;
+  background-color: #3d83df;
+  color: #fff;
+  font-family: Roboto, Arial, sans-serif;
+  border-radius: 4px;
+  text-align: center;
+  border: #fff;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 14px;
+  padding-right: 14px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  font-size: 12px;
+}
+
+footer{
+  text-align: center;
+    margin-top: 100px;
+    font-size: 12px;
+    font-family: Roboto, Arial, sans-serif;
+    color: #ababab;
+    padding-left: 100px;
+    padding-right: 100px;
+}
